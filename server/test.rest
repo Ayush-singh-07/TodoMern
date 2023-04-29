@@ -1,0 +1,6 @@
+get http://localhost:8000/api/additem 
+content-type: application/json
+
+# {
+#     "name": "sample item",
+# }
